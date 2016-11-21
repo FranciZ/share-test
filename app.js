@@ -23,5 +23,5 @@ angular.module('amsTest').run(function($rootScope) {
 });
 
 angular.module('amsTest').run(function($FB){
-    $FB.init('331360950579708');
+    $FB.init('400989856677564');
 });
